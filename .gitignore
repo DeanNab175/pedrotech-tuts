@@ -1,5 +1,7 @@
 node_modules
+.idea
+.vscode
 # Keep environment variables out of version control
 .env
 
-/src/generated/prisma
+*/generated/prisma
